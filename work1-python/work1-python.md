@@ -1,4 +1,7 @@
 # Numpy and Tensorflow
+
+Image analysis using numpy: import the dataset (130 non-food images), then use numpy to get the array and calculate it and finally get the final image by numerical operations through the principles of Tensorflow.
+
 <img width="510" alt="截屏2023-03-15 15 46 41" src="https://user-images.githubusercontent.com/57748663/225365124-c0c38af7-796f-4399-b18e-9382ad58d4a6.png">
 <img width="509" alt="截屏2023-03-15 15 46 50" src="https://user-images.githubusercontent.com/57748663/225365129-d238e466-ebaf-4346-90aa-d4ad28205ffb.png">
 <img width="499" alt="截屏2023-03-15 15 47 01" src="https://user-images.githubusercontent.com/57748663/225365134-01030e46-0664-4cfc-83d1-ca405286dd0a.png">
